@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Data Science/Data Analytics
 - 🌱 I’m currently learning ... Data Science
 - 💞️ I’m looking to collaborate on ... Data Analysis Projects and Data Science Internships
-- 📫 How to reach me ... You can Reach Out to me by Linkedin Here's my Profile Link https://www.linkedin.com/in/jawad-ahmad-758a631b7/
+- 📫 How to reach me ... You can Reach Out to me by Linkedin Here's my Profile Link [https://www.linkedin.com/in/jawad-ahmad-758a631b7/](https://www.linkedin.com/in/jawad-ahmad404/)
 - You can Email Me : jawadrafay7@gmail.com
 
 <!---
